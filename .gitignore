@@ -1,0 +1,6 @@
+#Ignore all
+*
+
+#But leaves *.swift
+!*.swift
+!.gitignore
